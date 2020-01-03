@@ -1,3 +1,5 @@
 test file 
+<<<<<<< HEAD
 Hello
 whats going on
+hello welcome to india.
